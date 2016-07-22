@@ -6,7 +6,7 @@
 
 ```
 curl -o- https://raw.githubusercontent.com/calidion/vli/master/ubuntu.init.sh | bash
-`
+```
 
 ## 快速vim环境安装脚本
 
