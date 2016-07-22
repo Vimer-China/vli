@@ -24,6 +24,7 @@ Plugin 'majutsushi/tagbar'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'easymotion/vim-easymotion'
 Plugin 'mattn/emmet-vim'
+Plugin 'Valloric/YouCompleteMe'
 
 " Plugin 'valloric/youcompleteme'
 
