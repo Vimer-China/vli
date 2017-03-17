@@ -8,5 +8,5 @@ cd ~/.vli
 cp -rf vimrc ~/.vimrc
 vim +PluginInstall +qall
 cd ~/.vim/bundle/YouCompleteMe
-./install.py --gocode-completer --tern-completer --clang-completer
+./install.py --all
 
